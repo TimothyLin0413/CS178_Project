@@ -1,4 +1,4 @@
-# CS178_Project
+# Machine Learning Techniques/Models On Realistic Dataset
 
 
 # How to Download and extract CIFAR-10 data
